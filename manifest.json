@@ -1,6 +1,7 @@
 {
   "short_name": "PWA Poc",
   "name": "React PWA Poc Sample",
+  "display": "standalone",
   "icons": [
     {
       "src": "logo.png",
