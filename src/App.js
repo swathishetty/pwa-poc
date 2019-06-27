@@ -28,10 +28,8 @@ import SignatureCanvas from 'react-signature-canvas';
           this.setState({showModal: false});
       }
       setModal(){
-        alert("hello");
         console.log('this.state.showModal ',this.state.showModal);
         this.setState({showModal: true});
-        alert('showModal '+this.state.showModal);
         console.log('this.state.showModal ',this.state.showModal);
       }
       handleClose(){
